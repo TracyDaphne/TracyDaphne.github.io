@@ -2,32 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tracy Asamoah
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th April, 2001
     - name: Languages
-      value: English, German
+      value: English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Materials Engineering
+      institution: Kwame Nkrumah University of Science and Technology, Ghana
+      year: 2018.08 - 2022.11
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+        - Advanced coursework in Battery materials, Homogeneous catalysis, Quantum Chemistry
+        - Skills in atomistic modelling, materials characterization (XRD, XRF, GCD, AAS, FT-IR), visualization, technical writing, Python, Latex, MS Office Suite, public speaking 
 - title: Experience
   type: time_table
   contents:
